@@ -12,4 +12,12 @@ $("a").click(function(event) {
     });
   }
 });
+
+$('[data-toggle="tooltip"]').tooltip()
+});
+
+
+$('.carousel').carousel()
+});
+
 });

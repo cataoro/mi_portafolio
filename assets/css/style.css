@@ -11,7 +11,8 @@ body {
   background-color: #660066;
 }
 
-header {
+.hero-section {
+  position:relative;
   background-image: url(../img/bg_hero.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -19,12 +20,22 @@ header {
   padding-bottom: 30rem;
 }
 
+.magdalena {
+margin-top: 30px;
 
+}
 
 hr {
   border: 1px solid;
   width: 8rem;
 }
+
+.blanca {
+  border: 1px solid;
+  width: 8rem;
+  color: #ffffff;
+}
+
 
 .principal {
   border: 1px solid;
@@ -40,8 +51,6 @@ hr {
 
 .texto-destacado {
   font-weight: 600;
-  line-height: 5.5;
-
 }
 
 
@@ -68,9 +77,6 @@ display: inline-block;
 }
 
 
-.iconos {
-
-
-
-
+.carousel-indicators li {
+  margin-bottom: -40rem;
 }
