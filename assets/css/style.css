@@ -4,6 +4,7 @@
 
 body {
   font-family: 'Oswald', sans-serif;
+  color: #373A3C;
 }
 
 .morado {
@@ -40,5 +41,36 @@ hr {
 .texto-destacado {
   font-weight: 600;
   line-height: 5.5;
+
+}
+
+
+.regular {
+font-weight: 400;
+line-height: 2.5;
+display: inline-block;
+}
+
+.subtitulo {
+  font-weight: 700;
+}
+
+.texto-card {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+.logo-secundario {
+  font-size: 2rem;
+  display: inline-block;
+
+
+}
+
+
+.iconos {
+
+
+
 
 }
