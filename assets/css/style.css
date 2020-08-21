@@ -1,7 +1,4 @@
 
-
-
-
 body {
   font-family: 'Oswald', sans-serif;
   color: #373A3C;
@@ -35,7 +32,6 @@ hr {
   width: 8rem;
   color: #ffffff;
 }
-
 
 .principal {
   border: 1px solid;
@@ -79,4 +75,12 @@ display: inline-block;
 
 .carousel-indicators li {
   margin-bottom: -40rem;
+}
+
+.iconos_footer ul li {
+ display: inline-block;
+}
+
+ul {
+ list-style-type: none;
 }
